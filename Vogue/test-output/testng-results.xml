@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="62613" started-at="2018-11-30T12:32:50Z" finished-at="2018-11-30T12:33:53Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="62613" started-at="2018-11-30T12:32:50Z" finished-at="2018-11-30T12:33:53Z">
+      <class name="vogue_SmokeTest.Vogue_MainClass">
+        <test-method status="PASS" signature="Setup()[pri:0, instance:vogue_SmokeTest.Vogue_MainClass@55f3ddb1]" name="Setup" is-config="true" duration-ms="16060" started-at="2018-11-30T12:32:50Z" finished-at="2018-11-30T12:33:06Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Setup -->
+        <test-method status="PASS" signature="OpenVogueSite()[pri:1, instance:vogue_SmokeTest.Vogue_MainClass@55f3ddb1]" name="OpenVogueSite" duration-ms="6068" started-at="2018-11-30T12:33:06Z" finished-at="2018-11-30T12:33:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- OpenVogueSite -->
+        <test-method status="PASS" signature="Test_login()[pri:2, instance:vogue_SmokeTest.Vogue_MainClass@55f3ddb1]" name="Test_login" duration-ms="18066" started-at="2018-11-30T12:33:12Z" finished-at="2018-11-30T12:33:30Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test_login -->
+        <test-method status="PASS" signature="Test_ArticlePage()[pri:3, instance:vogue_SmokeTest.Vogue_MainClass@55f3ddb1]" name="Test_ArticlePage" duration-ms="20766" started-at="2018-11-30T12:33:30Z" finished-at="2018-11-30T12:33:51Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test_ArticlePage -->
+        <test-method status="PASS" signature="afterTest()[pri:0, instance:vogue_SmokeTest.Vogue_MainClass@55f3ddb1]" name="afterTest" is-config="true" duration-ms="1593" started-at="2018-11-30T12:33:51Z" finished-at="2018-11-30T12:33:53Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+      </class> <!-- vogue_SmokeTest.Vogue_MainClass -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
